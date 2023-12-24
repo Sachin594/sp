@@ -1,0 +1,1 @@
+The Raw, Blame, and History buttons appear when viewing a single file of a repository. For example, let's visit the README.md file by clicking on it: The Raw button, like the name suggests, opens the file in a raw form, meaning that any HTML formatting disappears.
